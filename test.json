@@ -1,0 +1,8 @@
+{
+    "First": {
+        "status":"This line is being read from a JSON file."
+    },
+    "Second": {
+        "status":"This one too :D"
+    }
+}
